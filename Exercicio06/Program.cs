@@ -28,7 +28,7 @@ namespace Exercicio06
                     break;
                 case 6:
                     Console.WriteLine("Sexta-feira: ");
-                    //break;
+                    break;
                 case 7:
                     Console.WriteLine("Sabado: ");
                     break;
